@@ -25,5 +25,5 @@ docker build . -t <dockerImageName>:<Tag(optional)>
 <b>5. Run the Docker Container</b>
 >Start the Docker container with the following command:
 ```bash
-docker run <dockerImageName>:<Tag(optional)>
+docker run <--rm(optional)> <dockerImageName>:<Tag(optional)>
 ```
