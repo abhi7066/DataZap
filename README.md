@@ -1,4 +1,4 @@
-# DockBridge
+# DataZap
 
 ###### A robust and versatile data migration solution designed to seamlessly transfer data between various platforms, including Azure, AWS, Snowflake, and SQL Server.
 
@@ -11,7 +11,7 @@
 > Clone the repository to your local system:
 
 ```bash
-git clone https://github.com/abhi7066/darkalchemy-vscode-theme.git
+git clone https://github.com/abhi7066/DataZap.git
 ```
 
 <b>2. Open the Project</b>
